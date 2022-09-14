@@ -1,3 +1,4 @@
+<img src="https://github.com/devramcc/devramcc/blob/main/Black%20Technology%20LinkedIn%20Banner.png"/>
 <h1 align="center">Hi 👋, I'm Ramadhan</h1>
 <h3 align="center">A passionate backend developer.</h3>
 
