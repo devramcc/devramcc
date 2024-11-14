@@ -1,3 +1,5 @@
+**🕖 View My Coding Activity: [Wakatime](https://wakatime.com/@devramcc)**
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@devramcc/cf228b31-a916-491c-bca1-9ca4247d078c.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@devramcc/09581200-767c-4254-bd51-b775a5f3f526.svg">
