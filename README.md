@@ -1,4 +1,4 @@
-**🕖 View My Coding Activity: [Wakatime](https://wakatime.com/@devramcc)**
+**🕖 My Coding Activity: [Wakatime](https://wakatime.com/@devramcc)**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@devramcc/cf228b31-a916-491c-bca1-9ca4247d078c.svg">
